@@ -6,6 +6,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.MenuItem;
 
+
+/*Esta vista es para el usuario una vez registrado*/
 public class Usuario extends AppCompatActivity {
 
     private DrawerLayout nDrawerLayout;
